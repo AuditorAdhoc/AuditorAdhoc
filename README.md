@@ -6,7 +6,7 @@
 
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-![TIAGO SILVA'S GitHub stats](https://github-readme-stats.vercel.app/api?username=AuditorAdhoc&show_icons=true&theme=transparent)
+![AuditorAdhoc'S GitHub stats](https://github-readme-stats.vercel.app/api?username=AuditorAdhoc&show_icons=true&theme=transparent)
 
 ## Programming Languages
 
