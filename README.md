@@ -10,7 +10,7 @@
 
 ## Programming Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AuditorAdhoc&layout=compact)(https://github.com/AuditorAdhoc/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AuditorAdhoc&layout=compact)
 
 ## Technologies and Tools
 
