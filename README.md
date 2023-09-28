@@ -47,6 +47,16 @@
 
 ## ACADEMIC BACKGROUND 
 
+Universidade Católica de Brasília
+
+Bacharelado em Ciências da Computação
+
+Data de conclusão do curso 28/11/2005
+
+Faculdade Omni
+Pós-Graduação lato sensu em Auditoria Governamental
+Data de conclusão: 2º semestre de 2009
+
 
 ## SKILL
 
