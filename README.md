@@ -33,6 +33,8 @@
 
 <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C.svg?style=for-the-badge&logo=Cypress&logoColor=white" />
 
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+
 <br>
 
 <img alt="JUnit5" src="https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=JUnit5&logoColor=white" />
@@ -47,12 +49,14 @@
 
 ## ACADEMIC BACKGROUND 
 
-Universidade Católica de Brasília
+### Universidade Católica de Brasília
 Bacharelado em Ciências da Computação
+
 Data de conclusão do curso 28/11/2005
 
-Faculdade Omni
+### Faculdade Omni
 Pós-Graduação lato sensu em Auditoria Governamental
+
 Data de conclusão: 2º semestre de 2009
 
 
