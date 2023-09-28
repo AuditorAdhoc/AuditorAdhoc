@@ -48,9 +48,7 @@
 ## ACADEMIC BACKGROUND 
 
 Universidade Católica de Brasília
-
 Bacharelado em Ciências da Computação
-
 Data de conclusão do curso 28/11/2005
 
 Faculdade Omni
