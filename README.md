@@ -4,7 +4,7 @@
 
 ## Social Midia 
 
-[![[Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-de-oliveira-silva-765439253/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-de-oliveira-silva-765439253/)
 
 ![AuditorAdhoc'S GitHub stats](https://github-readme-stats.vercel.app/api?username=AuditorAdhoc&show_icons=true&theme=transparent)
 
