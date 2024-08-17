@@ -4,7 +4,7 @@
 
 ## Social Midia 
 
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![[Linkedin](https://www.linkedin.com/in/tiago-de-oliveira-silva-765439253/)]
 
 ![AuditorAdhoc'S GitHub stats](https://github-readme-stats.vercel.app/api?username=AuditorAdhoc&show_icons=true&theme=transparent)
 
@@ -55,12 +55,6 @@
 Bacharelado em Ciências da Computação
 
 Data de conclusão do curso 28/11/2005
-
-### Faculdade Omni
-Pós-Graduação lato sensu em Auditoria Governamental
-
-Data de conclusão: 2º semestre de 2009
-
 
 ## SKILL
 
